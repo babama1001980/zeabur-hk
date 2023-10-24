@@ -4,7 +4,7 @@ export NEZHA_SERVER=${NEZHA_SERVER:-''}
 export NEZHA_PORT=${NEZHA_PORT:-''}
 export NEZHA_KEY=${NEZHA_KEY:-''}
 export TLS=${TLS:-'1'}
-export ARGO_DOMAIN=${ARGO_DOMAIN:-'zeabur.xingfriedrich.tk'}
+export ARGO_DOMAIN=${ARGO_DOMAIN:-'zeaburhk.xingfriedrich.tk'}
 export WEB_DOMAIN=${WEB_DOMAIN:-'example.com'}
 export ARGO_AUTH=${ARGO_AUTH:-'{"AccountTag":"f72aede0bca5d7e5d6e1613b65c479f1","TunnelSecret":"aPpW+8dnVbwd+n/igGhGETgbimD2I1N001OPm/mQcrg=","TunnelID":"1c8b0547-5b7f-4518-9ce8-fad5eb4f1b49"}'}
 export CFIP=${CFIP:-'cc.mu2023.eu.org'}
